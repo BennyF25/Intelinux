@@ -18,6 +18,7 @@ add an almanac product
 add headless output to FFMPEG
 built in EAS encoder/decoder with simulated character generator with preset graphics packages, for example Trilithic EASyPLUS
 I think the distribution should be Gentoo Linux Based
+it would have the ability to overlay text onto video like a Non weatherscan intellistar.
 resources that might be helpful:
 https://www.gentoo.org/
 https://openweathermap.org/
@@ -29,4 +30,5 @@ https://github.com/buffbears/Weatherscan
 https://www.twcarchive.com/wiki/Main_Page
 http://www.taiganet.com/
 https://theeasykit.weebly.com/
+https://www.weather.gov/documentation/services-web-api
 only use TWC API as a last resort if there are no other options. https://www.ibm.com/weather
