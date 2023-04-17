@@ -1,4 +1,4 @@
-# IntelliLinux
+# Intelinux
 An completely open-source Weatherscan like single-purpose Linux distribution designed to run on any computer.
 
 ## Developments
