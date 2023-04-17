@@ -1,5 +1,5 @@
 # Intelinux
-an open source weatherscan like single-purpose Linux distribution designed for the Raspberry Pi using no propietary assets like fonts/graphics/music/narrations/API's, and only free/open source/public domain assets. It will have the following design goals:
+an open source weatherscan like single-purpose Linux distribution designed to run on any computer using no propietary assets like fonts/graphics/music/narrations/API's, and only free/open source/public domain assets. It will have the following design goals:
 
 the higher up on the list the more the priority
  we also need a forum, a website, and a dedicated discord server, although focus on the other tasks first
