@@ -7,16 +7,17 @@ An completely open-source Weatherscan like single-purpose Linux distribution des
 * TWC/WeatherScan themed
 * Update data on a timely schedule (like 30m to a few hours)
 * More products like Airport Conditions, Health, Golf, Garden, Ski, Beach, Travel, Traffic, and International (+ some more possibly?)
-* Lightweight Raspberry Pi distro, use weather sensors as a primary weather source
+* Lightweight Raspberry Pi distro, can be able to convert legacy TWC weather detectors into a weather data source
 * Severe Weather Mode
 * Easy to use Settings interface
-* Minimal update obstructions
+* Seamless updates (reboot at night if necesarry)
+* Media direct output when device off or updating (like an [IntelliSTAR's Thunderstorm card](https://youtu.be/kLLdT2xFcWM?t=351))
 * Weather Saftey Tips
 * International weather data
 * M3U and XMLTV support
 * Almanac Product
 * Headless output to FFMPEG
-* Built in EAS encoder/decoder with simulated character generator with EAS screen presets, like a [Trilithic EASyPLUS](https://emergencyalertsystem.fandom.com/wiki/Trilithic_EASyPLUS/EASyCAST/EASyIPTV_Screen) preset and using [EASyKIT](https://theeasykit.weebly.com/)
+* Built in EAS encoder/decoder with simulated character generator with EAS screen presets, like a [Trilithic EASyPLUS](https://emergencyalertsystem.fandom.com/wiki/Trilithic_EASyPLUS/EASyCAST/EASyIPTV_Screen) preset
 * [Gentoo Linux](https://www.gentoo.org/) based
 * Overlay text onto video like normal IntelliSTARs
 
@@ -26,26 +27,28 @@ An completely open-source Weatherscan like single-purpose Linux distribution des
 * Discord Server
 
 ## Resources
-https://www.gentoo.org/
+https://youtu.be/kLLdT2xFcWM?t=351 (thunderstorm card demonstration)
 
-https://openweathermap.org/
+https://www.gentoo.org/ (Gentoo Linux)
 
-https://twcclassics.com/downloads.html
+https://openweathermap.org/api (OpenWeatherMap api)
 
-https://en.wikipedia.org/wiki/WeatherStar
+https://twcclassics.com/downloads.html (TWCClassics WeatherSTAR 4000 icon & WeatherSTAR font download)
 
-https://github.com/mewtek/OpenStar
+https://en.wikipedia.org/wiki/WeatherStar (WeatherSTAR wiki page)
 
-https://github.com/qconrad/intellistar-emulator
+https://github.com/mewtek/OpenStar 
 
-https://github.com/buffbears/Weatherscan
+https://github.com/qconrad/intellistar-emulator (IntelliSTAR 2 XD simulator)
 
-https://www.twcarchive.com/wiki/Main_Page
+https://github.com/buffbears/Weatherscan (Weatherscan simulator)
 
-http://www.taiganet.com/
+https://www.twcarchive.com/wiki/Main_Page (TWCArchive wiki)
 
-https://theeasykit.weebly.com/
+http://www.taiganet.com/ (Tiaganet, home of the WeatherSTAR 4000 simulator)
 
-https://www.weather.gov/documentation/services-web-api
+https://theeasykit.weebly.com/ (EASyKIT)
+
+https://www.weather.gov/documentation/services-web-api **(USE AS A LAST RESORT TO APIs)**
 
 https://www.ibm.com/weather **(USE AS A LAST RESORT TO APIs)**
