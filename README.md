@@ -1,5 +1,5 @@
 # Intelinux
-An completely open-source Weatherscan like single-purpose Linux distribution designed to run on any computer.
+An completely open-source Weatherscan like single-purpose Linux distribution with hardware add on card designed to run on any computer.
 
 ## Developments
 ### To Do
@@ -11,7 +11,7 @@ An completely open-source Weatherscan like single-purpose Linux distribution des
 * Severe Weather Mode
 * Easy to use Settings interface
 * Seamless updates (reboot at night if necesarry)
-* Media direct output when device off or updating (like an [IntelliSTAR's Thunderstorm card](https://youtu.be/kLLdT2xFcWM?t=351))
+* Media direct output when device off or updating (like an [IntelliSTAR's Thunderstorm card](would need add on card for video input and output(https://youtu.be/kLLdT2xFcWM?t=351))
 * Weather Saftey Tips
 * International weather data
 * M3U and XMLTV support
