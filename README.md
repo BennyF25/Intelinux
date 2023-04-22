@@ -1,5 +1,5 @@
 # Intelinux
-An completely open-source Weatherscan like single-purpose Linux distribution with hardware add on card designed to run on any computer.
+An completely open-source Intellistar like software to gather data from the NWS API, turn it into text and graphics, and then render it. perhaps use something like OBS for video capturing/output, a fork of an open-source rendering engine, and then a way to grab data from the NWS API and send it into the rendering engine.
 
 ## Developments
 ### To Do
@@ -7,7 +7,6 @@ An completely open-source Weatherscan like single-purpose Linux distribution wit
 * TWC/WeatherScan themed
 * Update data on a timely schedule (like 30m to a few hours)
 * More products like Airport Conditions, Health, Golf, Garden, Ski, Beach, Travel, Traffic, and International (+ some more possibly?)
-* Lightweight Raspberry Pi distro, can be able to convert legacy TWC weather detectors into a weather data source
 * Severe Weather Mode
 * Easy to use Settings interface
 * Seamless updates (reboot at night if necesarry)
